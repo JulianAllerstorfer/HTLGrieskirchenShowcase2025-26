@@ -7,13 +7,6 @@
     "status": 1
   },
   {
-    "title": "empty2",
-    "folder": "empty2",
-    "author": "empty2",
-    "year": "2025_WS",
-    "status": 1
-  },
-  {
     "title": "Plants vs. Zombies",
     "folder": "Plants vs. Zombies",
     "author": "Tobias Hofinger",
@@ -42,4 +35,67 @@
         "info": "supper game",
         "status": "1"
     },
+  {
+    "title": "HyperKine",
+    "folder": "HyperKine",
+    "author": "Clemens Auinger",
+    "year": "2025_WS",
+    "status": 1
+  },
+  {
+    "title": "EndlessRunner",
+    "folder": "EndlessRunner",
+    "author": "Stefan Wenzlhumer",
+    "year": "2025_WS",
+    "status": 1
+  },
+  {
+      "title": "Zombieshooter",
+    "folder": "zombieshooter",
+    "author": "Florian oberhumer",
+    "year": "2025_WS",
+    "status": 1
+  },
+  {
+      "title": "Arkenfall",
+    "folder": "Arkenfall",
+    "author": "Stefan Adlesgruber",
+    "year": "2025_WS",
+    "status": 1
+  },
+  {
+    "title": "MythQuest",
+    "folder": "MythiQuest",
+    "author": "Thorsten Kollnberger",
+    "year": "2025_WS",
+    "status": 1
+  },
+  {
+    "title": "Pokehunt",
+    "folder": "Pokehunt",
+    "author": "Maximilian Greifeneder",
+    "year": "2025_WS",
+    "status": 1
+  },
+  {
+    "title": "2d extraction shooter",
+    "folder": "2d_extraction_shooter",
+    "author": "Michael Spišák",
+    "year": "2025_WS",
+    "status": 0
+  },
+  {
+    "title": "Shellshock v2",
+    "folder": "shellshock_v2",
+    "author": "Noah Aspöck",
+    "year": "2025_WS",
+    "status": -1
+  },
+  {
+    "title": "Pokemon Defender",
+    "folder": "PokemonDefender",
+    "author": "San Diego Friedwagner",
+    "year": "2025_WS",
+    "status": 1
+  }
 ]
