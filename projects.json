@@ -97,5 +97,13 @@
     "author": "San Diego Friedwagner",
     "year": "2025_WS",
     "status": 1
+  },
+
+  {
+    "title": "Whack A Mole",
+    "folder": "WhackAMoleWeb",
+    "author": "Lukas KLausner",
+    "year": "2025_WS",
+    "status": 1
   }
 ]
